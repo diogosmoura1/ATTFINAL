@@ -43,6 +43,14 @@ empresas_dic = [
     },
 
     {
+        "empresa": "CARTEIRA_CAROL",
+        "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf carol.xlsx",
+        "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE CAROL.xlsx",
+        "link": "https://docs.google.com/spreadsheets/d/1xv4wdZxNOfLa2MYWuwIS3QafpREL6g1bIIAjHE1ib9c/edit?usp=sharing"
+    },
+
+
+    {
         "empresa": "CARTEIRA_DLEON",
         "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf dléon.xlsx",
         "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE DLEON.xlsx",
@@ -57,13 +65,6 @@ empresas_dic = [
     },
 
     {
-        "empresa": "CARTEIRA_JOILSON",
-        "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf joilson.xlsx",
-        "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE JOILSON.xlsx",
-        "link": "https://docs.google.com/spreadsheets/d/1ILMTAR5mD2WBYdllliIok4mV4q6fKP7LlP38HfJGQj0/edit?usp=sharing"
-    },
-
-    {
         "empresa": "CARTEIRA_JORGE",
         "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf jorge.xlsx",
         "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE JORGE.xlsx",
@@ -75,13 +76,6 @@ empresas_dic = [
         "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf leo.xlsx",
         "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE LEO.xlsx",
         "link": "https://docs.google.com/spreadsheets/d/1eIZ4JMOae-6_vtfw-8P194RpqWgctoMyHof3UMbOIzM/edit?usp=sharing"
-    },
-
-    {
-        "empresa": "CARTEIRA_MARCONDES",
-        "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf marcondes.xlsx",
-        "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE MARCONDES.xlsx",
-        "link": "https://docs.google.com/spreadsheets/d/1iKZSZkQIvmZlq9RO2x56u5-mmU61xGb-bGIDvihFEO4/edit?usp=sharing"
     },
 
     {
@@ -127,24 +121,10 @@ empresas_dic = [
     },
 
     {
-        "empresa": "CARTEIRA_TAISE",
-        "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf taise.xlsx",
-        "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE TAISE.xlsx",
-        "link": "https://docs.google.com/spreadsheets/d/13oWwQZZ1cUlsQLagK0lLWgs8eBi3Zaddexn8hQUPmFc/edit?usp=sharing"
-    },
-
-    {
         "empresa": "CARTEIRA_W.ARAUJO",
         "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf w.araujo.xlsx",
         "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE W.ARAUJO.xlsx",
         "link": "https://docs.google.com/spreadsheets/d/1bC_yQp3VRjTNQ76Nv-akXHAuOL_4ZIFddmFrrin5Ksk/edit?usp=sharing"
-    },
-
-    {
-        "empresa": "CARTEIRA_WASHINGTON",
-        "new": r"C:\Users\micro\Documents\acomp dg tec\new coleta cpf washington.xlsx",
-        "carteira": r"C:\Users\micro\Documents\PARCEIROS DG TEC\CARTEIRA DE WASHINGTON.xlsx",
-        "link": "https://docs.google.com/spreadsheets/d/1llyWwg3m3G5d_BswF8zzC3ONu3taglon3o58hxXPA0A/edit?usp=sharing"
     },
 
     {
